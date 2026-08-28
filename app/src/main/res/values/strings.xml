@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SilentUI</string>
+    <string name="status_bar_service">SilentUI 状态栏服务</string>
+</resources>

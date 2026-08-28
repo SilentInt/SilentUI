@@ -1,0 +1,18 @@
+# build outputs
+/build/
+*.apk
+*.apk.idsig
+
+# IDE / OS
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# local test dumps (uiautomator / screenshots)
+/m*.xml
+/g.xml
+/ga.xml
+/main2.xml
+/scr*.png
