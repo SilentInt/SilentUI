@@ -10,9 +10,6 @@
 Thumbs.db
 desktop.ini
 
-# local test dumps (uiautomator / screenshots)
-/m*.xml
-/g.xml
-/ga.xml
-/main2.xml
-/scr*.png
+# local test dumps (uiautomator / screenshots) — 根目录临时导出
+/*.xml
+/*.png
